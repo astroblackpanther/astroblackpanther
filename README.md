@@ -4,7 +4,7 @@ Software Engineer | Space Enthusiast | Grace Hopper Scholar | [Forbes 30 Under 3
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Roxy!;Software+Engineer;Space+Enthusiast;ML+%26+AI+Researcher" alt="Typing SVG" style="vertical-align: middle;" />
   <br/>
-  <img src="assets/pixel-astronaut_roxy.gif" width="200" alt="Animated pixel art: Roxy the astronaut saying hi" style="vertical-align: middle;" />
+  <img src="assets/pixel-astronaut_roxy.gif" width="180" alt="Animated pixel art: Roxy the astronaut saying hi" style="vertical-align: middle;" />
 </div>
 
 ---
