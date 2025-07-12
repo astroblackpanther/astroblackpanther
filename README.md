@@ -4,7 +4,7 @@ Software Engineer | Space Enthusiast | Forbes 30 Under 30
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Roxy!;Software+Engineer;Space+Enthusiast;ML+%26+AI+Researcher" alt="Typing SVG" />
   
-  <img src="assets/pixel-astronaut_roxy.gif" width="100" alt="Animated pixel art: Roxy the astronaut saying hi" />
+  <img src="assets/pixel-astronaut_roxy.png" width="100" alt="Animated pixel art: Roxy the astronaut saying hi" />
   <br/>
   <sub><i>👩🏾‍🚀 Hi from space! ✌🏾</i></sub>
 </div>
