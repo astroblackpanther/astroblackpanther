@@ -6,7 +6,6 @@ Software Engineer | Space Enthusiast | Grace Hopper Scholar | [Forbes 30 Under 3
   
   <img src="assets/pixel-astronaut_roxy.gif" width="100" alt="Animated pixel art: Roxy the astronaut saying hi" />
   <br/>
-  <sub><i>👩🏾‍🚀 Hi from space! ✌🏾</i></sub>
 </div>
 
 ---
