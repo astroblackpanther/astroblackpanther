@@ -1,11 +1,10 @@
 # 🚀 Roxy Williams
 Software Engineer | Space Enthusiast | Grace Hopper Scholar | [Forbes 30 Under 30](https://cdn-forbesmx.nyc3.cdn.digitaloceanspaces.com/revistas/centroamerica/Forbes%20CA%20julio%202025%20digital.pdf) | [Women Aerospace Network Award](https://static1.squarespace.com/static/663001a6f85f393a1f8320d2/t/678e9ca75701694f81031f84/1737399468413/WSA+Winner.png)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Roxy!;Software+Engineer;Space+Enthusiast;ML+%26+AI+Researcher" alt="Typing SVG" />
-  
-  <img src="assets/pixel-astronaut_roxy.gif" width="100" alt="Animated pixel art: Roxy the astronaut saying hi" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Roxy!;Software+Engineer;Space+Enthusiast;ML+%26+AI+Researcher" alt="Typing SVG" style="vertical-align: middle;" />
   <br/>
+  <img src="assets/pixel-astronaut_roxy.gif" width="100" alt="Animated pixel art: Roxy the astronaut saying hi" style="vertical-align: middle;" />
 </div>
 
 ---
